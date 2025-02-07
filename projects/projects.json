@@ -1,0 +1,55 @@
+[{
+    "name": "Library System",
+    "desc": "The Library Management System simplifies library operations with efficient book and user management.",
+    "image": "library",
+    "category": "basicweb",
+    "links": {
+        "view": "#",
+        "code": "#"
+    }
+}, {
+    "name": "WorkConnect",
+    "desc": "Work Connect is a platform designed to bridge professionals and opportunities, fostering seamless collaboration and efficient networking.",
+    "image": "workconnect",
+    "category": "basicweb",
+    "links": {
+        "view": "#",
+        "code": "#"
+    }
+}, {
+    "name": "Login Page",
+    "desc": "The Sign-In page provides users with secure access to their accounts, ensuring a seamless and personalized experience.",
+    "image": "sigin",
+    "category": "basicweb",
+    "links": {
+        "view": "#",
+        "code": "#"
+    }
+}, {
+    "name": "Fronted Project",
+    "desc": "The Sign-Up page allows new users to create an account effortlessly, enabling access to personalized features and services.",
+    "image": "sign-up",
+    "category": "basicweb",
+    "links": {
+        "view": "#",
+        "code": "#"
+    }
+}, {
+    "name": "Success Page",
+    "desc": "The Success page confirms the completion of an action, ensuring users that their process was successful and acknowledged.",
+    "image": "succes",
+    "category": "basicweb",
+    "links": {
+        "view": "#",
+        "code": "#"
+    }
+}, {
+    "name": "My Portfolio",
+    "desc": "The Work Category section organizes and displays projects based on their specific types, making it easier for users to explore relevant work.",
+    "image": "portfilo",
+    "category": "basicweb",
+    "links": {
+        "view": "#",
+        "code": "#"
+    }
+}]
